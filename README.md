@@ -1,1 +1,1 @@
-# stranger_telegram_bot
+# Template for Telegram Bot
